@@ -1,0 +1,12 @@
+{
+  "name": "@emersonlaurentino/rpg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "ava": "^1.3.1"
+  }
+}
